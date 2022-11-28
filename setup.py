@@ -59,7 +59,7 @@ setup(
     description="BERTopic performs topic Modeling with state-of-the-art transformer models.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/MaartenGr/BERTopic",
+    url="https://github.com/Harman-19/BERTopic",
     project_urls={
         "Documentation": "https://maartengr.github.io/BERTopic/",
         "Source Code": "https://github.com/MaartenGr/BERTopic/",
